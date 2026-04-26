@@ -17,8 +17,11 @@ An interactive Power BI dashboard designed to provide deep-dive analytics into t
 * **Modeling:** Star Schema / Snowflake Schema
 
 ### 📸 Preview
-![Dashboard Screenshot](link-to-your-image-here.png)
-*A visual representation of the Team Details page featuring high-impact players like Mohammad Rizwan and Saud Shakeel.*
+<img width="1024" height="705" alt="Screenshot 2026-04-26 162652" src="https://github.com/user-attachments/assets/50e54483-cd5f-41d4-952a-1e9dbe2450d7" />
+<img width="1024" height="706" alt="Screenshot 2026-04-26 162718" src="https://github.com/user-attachments/assets/7105c67e-37f3-4076-b3df-60e9991e8f32" />
 
+### How it works
+This dashboard gives overview for Worldcup 2023 featuring 8 teams. for all the teams there are matches played, location impact player,
+wins, and win perceantge 
 ### 📈 Technical Challenge Solved
 The primary challenge was managing the cross-filtering between various player roles (Batsmen vs. Bowlers) without cluttering the UI. I solved this by implementing a hidden side-navigation pane and utilizing bookmarks to toggle between different analytical views without reloading the data.
